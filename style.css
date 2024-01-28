@@ -24,6 +24,15 @@ body{
     width:6.8vw;
     border: 3px solid rgb(116, 204, 16);
     border-radius: 19px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 8vh;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    cursor: pointer;
+    color: #0202f5;
+    text-shadow:
+    2px 1.3px 0.3rem #f6fa01;
 
 }
 h1{
